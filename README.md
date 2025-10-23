@@ -31,7 +31,7 @@ Everything lives in **Postgres**, even when a few JSON files would’ve worked j
 ---
 
 ### 🧩 Open-Source Projects
-Most of my public work is just small tools I built to make my life easier while coding — but if they help someone else too, that’s even better!  
+Most of my public work is just small tools I built to make my life easier while coding, hope they can help you too!  
 
 ---
 
