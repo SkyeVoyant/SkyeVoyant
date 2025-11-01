@@ -7,7 +7,7 @@ I build fast, efficient systems powered by **React** and **Node.js**, always try
 
 ### 💻 What I Work With
 **Languages:** JavaScript  
-**Frameworks & Tools:** React, Node.js (Express), Tailwind, PostgreSQL, Docker, K3s, WebSockets  
+**Frameworks & Tools:** React, Node.js (Express), Tailwind, PostgreSQL, Docker (Compose), WebSockets  
 **Other Interests:** UI/UX design, Discord.js bots, self-hosting, automation, and over-engineering everything
 
 ---
@@ -24,14 +24,12 @@ I build fast, efficient systems powered by **React** and **Node.js**, always try
 ---
 
 ### 🎨 About Me
-I like making my systems ridiculously overkill for fun 😅  
-From running a full **K3s + Flux** setup for flawless zero-downtime updates, to wiring **Redis** and **Kafka** where they aren’t fully needed. If it can be automated, optimized, or made unnecessarily complex, I’ll do it.  
-Everything lives in **Postgres**, even when a few JSON files would’ve worked just fine.
+My workflow is equal parts curiosity and stubbornness. Instead of plugging in third-party dashboards or tooling, I build my own minimalist versions, trim the fat, and containerize them so they’re reusable. If it’s not efficient, I’ll rewrite it until it is.
 
 ---
 
 ### 🧩 Open-Source Projects
-Most of my public work is just small tools I built to make my life easier while coding, hope they can help you too!  
+Most of my public work is just small tools I built to make my life easier while coding — but if they help someone else too, that’s even better!  
 
 ---
 
