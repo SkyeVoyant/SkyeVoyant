@@ -29,7 +29,7 @@ My workflow is equal parts curiosity and stubbornness. Instead of plugging in th
 ---
 
 ### 🧩 Open-Source Projects
-Most of my public work is just small tools I built to make my life easier while coding — but if they help someone else too, that’s even better!  
+Most of my public work is just small tools I built to make my life easier while coding but if they help someone else too, that’s even better!  
 
 ---
 
