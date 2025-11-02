@@ -23,11 +23,6 @@ I build fast, efficient systems powered by **React** and **Node.js**, always try
 
 ---
 
-### 🎨 About Me
-My workflow is equal parts curiosity and stubbornness. Instead of plugging in third-party dashboards or tooling, I build my own minimalist versions, trim the fat, and containerize them so they’re reusable. If it’s not efficient, I’ll rewrite it until it is.
-
----
-
 ### 🧩 Open-Source Projects
 Most of my public work is just small tools I built to make my life easier while coding but if they help someone else too, that’s even better!  
 
