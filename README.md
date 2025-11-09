@@ -13,7 +13,7 @@ I build fast, efficient systems powered by **React** and **Node.js**, always try
 ---
 
 **My JS toolkit**
-- **Realtime & messaging:** socket.io, ws, kafkajs  
+- **Realtime & messaging:** socket.io, ws
 - **Auth & security:** passport, express-session (+ connect-pg-simple), argon2, jsonwebtoken, express-rate-limit  
 - **Data & validation:** pg, zod / ajv (+ ajv-formats)  
 - **APIs & IO:** axios, node-fetch, chokidar, tar-stream  
