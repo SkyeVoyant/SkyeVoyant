@@ -29,7 +29,7 @@ Most of my public work is just small tools I built to make my life easier while 
 ---
 
 ### 📫 Let’s Connect
-[🌐 Website](https://skyecord.app) • [🐦 Twitter/X](https://x.com/SkyeVoyant) • [💬 Discord](https://disc.skyecord.app)
+[🌐 Website](https://skyecord.app) • [🐦 Twitter/X](https://x.com/SkyeVoyant) • [💬 Discord]([https://disc.skyecord.app](https://discord.com/invite/QT4KA7dyUQ))
 
 ---
 
